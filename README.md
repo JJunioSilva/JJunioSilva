@@ -8,4 +8,5 @@
 JJunioSilva/JJunioSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your ch
 --->
-Olá, eu sou Jair Junio da Silva graduado em Engenharia Mecânica, iniciei o aprendizado JAVA no qual tenho grande interesse em desenvolver sua programação. Atualmente estou no curso de JAVA + Programação Orienta a Objetos na UDEMY com carga horária de 50hs. Primeiramente gostaria de consolidar o aprendizado JAVA para então poder contribuir com melhorias e novas soluções JAVA. Meu contato: jjuniosilva@gmail.com
+Em
+Sou Jair Junio Silva graduado em Engenharia Mecânica, estou buscando conhecimento em tecnologia para migrar para essa incrível área. Em março/22 conclui o curso de Programador WEB pela IFRS com carga horária de 200 hs e 70% de aproveitamento. Atualmente estou matriculado no curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela PUC com previsão de término para 2º/2024. Olá Mundo!!!
