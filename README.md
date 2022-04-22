@@ -9,4 +9,4 @@ JJunioSilva/JJunioSilva is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your ch
 --->
 Em
-Sou Jair Junio Silva graduado em Engenharia Mecânica, estou buscando conhecimento em tecnologia para migrar para essa incrível área. Em março/22 conclui o curso de Programador WEB pela IFRS com carga horária de 200 hs e 70% de aproveitamento. Atualmente estou matriculado no curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela PUC com previsão de término para 2º/2024. Olá Mundo!!!
+Sou Jair Junio Silva graduado em Engenharia Mecânica, estou buscando conhecimento em tecnologia para migrar para essa incrível área. Em março/22 conclui o curso de Programador WEB pela IFRS com carga horária de 200 hs e 70% de aproveitamento. Atualmente estou matriculado no curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela PUC com previsão de término para 2º/2024.
